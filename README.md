@@ -6,4 +6,4 @@
 
 - CUBEMANIA.zip: Click to download CUBEMANIA for MAC OS X users
 
-- Use this [link](https://rileypaik.github.io/Video-Game1/) to play CUBEMANIA on the Web!
+- Use this [link](https://rileypaik.github.io/Video-Game/) to play CUBEMANIA on the Web!
